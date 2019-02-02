@@ -1,2 +1,2 @@
-# health-management
-My first personal project using java
+# daily-health-manager
+My personal project using java
